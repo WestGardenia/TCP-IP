@@ -1,0 +1,3 @@
+﻿  test_01.cpp
+E:\计算机\2024.4.9-project\Project1\Project1\test_01.cpp(56,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> E:\计算机\2024.4.9-project\Project1\x64\Debug\Project1.exe

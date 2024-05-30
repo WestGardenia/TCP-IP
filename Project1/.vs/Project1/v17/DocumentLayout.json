@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50D51D97-8B84-4A07-B34E-CF6B1550B70D}|Project2\\Project2.vcxproj|E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Project1\\Project2\\test_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50D51D97-8B84-4A07-B34E-CF6B1550B70D}|Project2\\Project2.vcxproj|solutionrelative:Project2\\test_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F6617F-43E0-48B0-8052-1D1EB0BA9A1D}|Project1\\Project1.vcxproj|E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Project1\\Project1\\test_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F6617F-43E0-48B0-8052-1D1EB0BA9A1D}|Project1\\Project1.vcxproj|solutionrelative:Project1\\test_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 308,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_02.cpp",
+              "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Project1\\Project2\\test_02.cpp",
+              "RelativeDocumentMoniker": "Project2\\test_02.cpp",
+              "ToolTip": "E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Project1\\Project2\\test_02.cpp",
+              "RelativeToolTip": "Project2\\test_02.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T03:35:58.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_01.cpp",
+              "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Project1\\Project1\\test_01.cpp",
+              "RelativeDocumentMoniker": "Project1\\test_01.cpp",
+              "ToolTip": "E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Project1\\Project1\\test_01.cpp",
+              "RelativeToolTip": "Project1\\test_01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T03:31:27.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
